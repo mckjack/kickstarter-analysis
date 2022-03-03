@@ -1,6 +1,7 @@
 # kickstarter-analysis
 Analysis on Kickstarter Data to find trends
 ## An Analysis of Kickstarter Campaigns 
+---
 An in-depth look at a wide variety of Kickstarter Campaigns that have been limited to theater and plays to uncover trends associated with those topics
 ---
 ![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/100252801/156204277-8e111c94-d393-48db-accb-e392ad41467d.png)
