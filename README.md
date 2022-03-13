@@ -15,6 +15,9 @@ For our second analysis we looked at outcomes of play campaigns to see what an i
 Using this we found the data we needed and formatted it into a table looking like, 
 ![Table of Outcomes Based on Goals](https://github.com/mckjack/kickstarter-analysis/blob/main/Table%20of%20Outcomes%20Based%20on%20Goals.png)
 - From this table we were able to produce another graph that resembled the following,
-![Outcomes_vs_Goals](
+![Outcomes_vs_Goals](https://github.com/mckjack/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+---
+###Results
+The conclusions we can take away from this data is that for theater outcomes based on launch date, it appears that the best months to launch a theater campaign is May or June simply because those were the two months that had the highest count of successful theater campaigns. However, another takeaway is we also see that in these two months the total of launched campaigns are the highest making the failed campaigns a high count as well. Therefore we must look at the initial goal of the campaign to ensure that we can find a target to have a successful campaign launch. We see that the data for initial goal shows that having a goal of less than $4999 will ensure a 73% chance of being successful and even a goal of less that $1000 will ensure a 76% of being successful. Therefore we recommend a intial goal in that range to give the best chance of the campaign being successful. Lastly, the only limitation that this data perceives is it doesn't show the specific play that will have the most success. Some plays may not have as much success as the others.
 
 
