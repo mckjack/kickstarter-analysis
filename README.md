@@ -10,7 +10,7 @@ Analyzing the data and looking at trends we were able to filter out some of the 
 ![Theater_Outcomes_vs_Launch](https://github.com/mckjack/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 For our second analysis we looked at outcomes of play campaigns to see what an ideal goal to start with would be to ensure that the campaign is successful. In excel we able to use the COUNTIFS() function to find the data for successful, failed, and cancelled play campaigns. This was a challenging part due to the fact that the boundaries on the goal had to be ensured to get the accurate data. An example of the code would look like,
 > =COUNTIFS(Kickstarter!$D:$D, ">=5000",Kickstarter!$D:$D, "<=9999",Kickstarter!$F:$F,"successful",Kickstarter!$R:$R,"plays")
---
+---
 Using this we found the data we needed and formatted it into a table looking like, 
 ![Table of Outcomes Based on Goals](
 
