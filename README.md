@@ -13,6 +13,8 @@ For our second analysis we looked at outcomes of play campaigns to see what an i
 > =COUNTIFS(Kickstarter!$D:$D, ">=5000",Kickstarter!$D:$D, "<=9999",Kickstarter!$F:$F,"successful",Kickstarter!$R:$R,"plays")
 ---
 Using this we found the data we needed and formatted it into a table looking like, 
-![Table of Outcomes Based on Goals](
+![Table of Outcomes Based on Goals](https://github.com/mckjack/kickstarter-analysis/blob/main/Table%20of%20Outcomes%20Based%20on%20Goals.png)
+- From this table we were able to produce another graph that resembled the following,
+![Outcomes_vs_Goals](
 
 
